@@ -13,3 +13,6 @@ Returns the count of printed characters when the function is successful and -1 w
 
 The available convention specifiers are:
 
++ %c: Prints a single character.
++ %s: Prints a string of characters.
+
