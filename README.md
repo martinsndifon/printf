@@ -6,5 +6,5 @@ This is a simple implementation of the printf function that formats and prints d
 
 **Description**
 ---
-The \_printf() function produces output according to a format which is described
+The \_printf() function produces output according to a format which is described below. This function write its output to the stdout, the standard output stream.
 
