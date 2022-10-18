@@ -2,8 +2,8 @@
 
 /**
  * _putchar - writes a single character to stdout
- * 
- * @c: character to print 
+ *
+ * @c: character to print
  * Return: 1 on success
  * On error, -1 is returned, and errno is set appropriately.
  * Description: _putchar uses a local buffer of 1024 to call write
@@ -45,3 +45,4 @@ int _puts(char *str)
 	}
 	return (i);
 }
+
