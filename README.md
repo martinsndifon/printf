@@ -23,4 +23,5 @@ The available convention specifiers are:
 + %X: Prints the hexadecimal representation of an unsigned decimal in uppercase letters.
 + %r: Prints a reversed string.
 + %R: Prints the Rot13 interpretation of a string.
++ %S: Prints none printable characters (0 < ASCII value < 32 or >= 127), starting with \x
 
