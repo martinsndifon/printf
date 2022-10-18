@@ -33,7 +33,7 @@ The available convention specifiers are:
 
 # Example
 
-#include "main"\r
+#include "main" \n
 #include <stdio.h>
 
 /**
