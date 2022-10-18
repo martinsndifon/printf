@@ -31,7 +31,7 @@ The available convention specifiers are:
 + Compile your code with 'gcc -Wall -Werror -Wextra - pedantic *.c'
 + Include the "main.h" header file on the functions using the _printf()
 
-# Author
+# Authors
 
 + Martins Ndifon
 + Udeme Udeme
