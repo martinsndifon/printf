@@ -23,5 +23,9 @@ The available convention specifiers are:
 + %X: Prints the hexadecimal representation of an unsigned decimal in uppercase letters.
 + %r: Prints a reversed string.
 + %R: Prints the Rot13 interpretation of a string.
-+ %S: Prints none printable characters (0 < ASCII value < 32 or >= 127), starting with \x followed by the ASCII code value in hexadecimal format (upper case - always 2 characters) 
++ %S: Prints none printable characters (0 < ASCII value < 32 or >= 127), starting with \x followed by the ASCII code value in hexadecimal format (upper case - always 2 characters)
+
+# Usage
+
++ All the files are to be compiled on Ubuntu 20.04 LTS. 
 
