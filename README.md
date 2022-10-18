@@ -17,4 +17,6 @@ The available convention specifiers are:
 + %s: Prints a string of characters.
 + %d: Prints integers.
 + %i: Prints integers.
++ %b: Prints the binary representation of an unsigned decimal.
++ %u: Prints unsigned integers.
 
