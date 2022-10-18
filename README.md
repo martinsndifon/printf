@@ -27,5 +27,6 @@ The available convention specifiers are:
 
 # Usage
 
-+ All the files are to be compiled on Ubuntu 20.04 LTS. 
++ All the files are to be compiled on Ubuntu 20.04 LTS.
++ Compile your code with 'gcc -Wall -Werror -Wextra - pedantic *.c' 
 
