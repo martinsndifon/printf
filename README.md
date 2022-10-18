@@ -33,5 +33,9 @@ The available convention specifiers are:
 
 # Example
 
-#include "main" 
+#include "main"
+#include <stdio.h>
+
+/**
+ * main - Entry point 
 
