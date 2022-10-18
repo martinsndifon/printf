@@ -21,4 +21,5 @@ The available convention specifiers are:
 + %u: Prints unsigned integers.
 + %x: Prints the hexadecimal representation of an unsigned decimal in lowercase letters.
 + %X: Prints the hexadecimal representation of an unsigned decimal in uppercase letters.
++ %r: Prints a reversed string.
 
