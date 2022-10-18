@@ -28,5 +28,6 @@ The available convention specifiers are:
 # Usage
 
 + All the files are to be compiled on Ubuntu 20.04 LTS.
-+ Compile your code with 'gcc -Wall -Werror -Wextra - pedantic *.c' 
++ Compile your code with 'gcc -Wall -Werror -Wextra - pedantic *.c'
++ Include the "main.h" header file on the functions using the _printf() 
 
