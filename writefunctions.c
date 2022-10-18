@@ -34,7 +34,7 @@ int _putchar(char c)
  *
  * Return: void
  */
-void _puts(char *str)
+int _puts(char *str)
 {
 	int i = 0;
 
