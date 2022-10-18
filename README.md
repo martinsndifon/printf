@@ -20,4 +20,5 @@ The available convention specifiers are:
 + %b: Prints the binary representation of an unsigned decimal.
 + %u: Prints unsigned integers.
 + %x: Prints the hexadecimal representation of an unsigned decimal in lowercase letters.
++ %X: Prints the hexadecimal representation of an unsigned decimal in uppercase letters.
 
