@@ -22,4 +22,5 @@ The available convention specifiers are:
 + %x: Prints the hexadecimal representation of an unsigned decimal in lowercase letters.
 + %X: Prints the hexadecimal representation of an unsigned decimal in uppercase letters.
 + %r: Prints a reversed string.
++ %R: Prints the Rot13 interpretation of a string.
 
